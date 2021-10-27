@@ -1,8 +1,9 @@
 - 👋 Portfolio: https://tuannguyen21.github.io/
 - 👀 LinkedIn: https://www.linkedin.com/in/tuanquocnguyen/
 
-- I'm Tuan Nguyen, a senior majoring Computer Science in the University of Texas at Dallas.
-  My cumulative GPA is 3.9/4.0 and I am expected to graduate in May 2021.
+- I'm Tuan Nguyen, graduated with a bachelor's degree in Computer Science in the University of Texas at Dallas. 
+  My cumulative GPA is 3.93 / 4.00 and I graduated in May 2021.
+  When not having schoolwork, I spend my time reading and learning new front-end technologies, like React and Redux.
   I am actively looking for a full-time job.
 
 <!---
